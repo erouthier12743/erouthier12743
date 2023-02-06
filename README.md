@@ -1,4 +1,10 @@
-### Hi there 👋
+###user erouthier12743
+
+I am a graduate student in the Biogeochemical of Global Contaminants group in the department of Environmental Science and Engineering at Harvard University. I am broadly interested in understanding how contaminants cyvle in the envitonment and eventually impact wildlife and human health. Currently, apply isotope measurements to understanding the sources and cycling of mercury in the environment and foodwebs.
+
+🎓 Harvaravrd University (Current) &nbsp&nbsp  🎓 University of Wisconsin - Madison (B.S., 2020) &nbsp&nbsp
+
+
 
 <!--
 **erouthier12743/erouthier12743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
